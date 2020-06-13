@@ -1,0 +1,970 @@
+[
+    [
+      {
+        "employeeId": 1,
+        "employeeName": "Ramesh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 2,
+        "employeeName": "Suresh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true
+        ]
+      },
+      {
+        "employeeId": 3,
+        "employeeName": "Kamalesh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 4,
+        "employeeName": "Mahesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 5,
+        "employeeName": "Nagesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 6,
+        "employeeName": "Roopesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 7,
+        "employeeName": "Jitesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 8,
+        "employeeName": "Ram",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 3,
+        "shiftAvailability": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 9,
+        "employeeName": "Gopal",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 10,
+        "employeeName": "Verma",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 11,
+        "employeeName": "Sachin",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 12,
+        "employeeName": "Tendulkar",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 13,
+        "employeeName": "Sourav",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 14,
+        "employeeName": "Ganguly",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 15,
+        "employeeName": "Amitabh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 16,
+        "employeeName": "Bachhan",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      }
+    ],
+    [
+      {
+        "employeeId": 1,
+        "employeeName": "Ramesh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 2,
+        "employeeName": "Suresh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true
+        ]
+      },
+      {
+        "employeeId": 3,
+        "employeeName": "Kamalesh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 4,
+        "employeeName": "Mahesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 5,
+        "employeeName": "Nagesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 6,
+        "employeeName": "Roopesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 7,
+        "employeeName": "Jitesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 8,
+        "employeeName": "Ram",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 3,
+        "shiftAvailability": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 9,
+        "employeeName": "Gopal",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 10,
+        "employeeName": "Verma",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 11,
+        "employeeName": "Sachin",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 12,
+        "employeeName": "Tendulkar",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 13,
+        "employeeName": "Sourav",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 14,
+        "employeeName": "Ganguly",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 15,
+        "employeeName": "Amitabh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 16,
+        "employeeName": "Bachhan",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      }
+    ],
+    [
+      {
+        "employeeId": 1,
+        "employeeName": "Ramesh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 2,
+        "employeeName": "Suresh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true
+        ]
+      },
+      {
+        "employeeId": 3,
+        "employeeName": "Kamalesh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 4,
+        "employeeName": "Mahesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 5,
+        "employeeName": "Nagesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 6,
+        "employeeName": "Roopesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 7,
+        "employeeName": "Jitesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 8,
+        "employeeName": "Ram",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 3,
+        "shiftAvailability": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 9,
+        "employeeName": "Gopal",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 10,
+        "employeeName": "Verma",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 11,
+        "employeeName": "Sachin",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 12,
+        "employeeName": "Tendulkar",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 13,
+        "employeeName": "Sourav",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 14,
+        "employeeName": "Ganguly",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 15,
+        "employeeName": "Amitabh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 16,
+        "employeeName": "Bachhan",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      }
+    ],
+    [
+      {
+        "employeeId": 1,
+        "employeeName": "Ramesh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 2,
+        "employeeName": "Suresh",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true
+        ]
+      },
+      {
+        "employeeId": 3,
+        "employeeName": "Kamalesh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 4,
+        "employeeName": "Mahesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 5,
+        "employeeName": "Nagesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 6,
+        "employeeName": "Roopesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 7,
+        "employeeName": "Jitesh",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 8,
+        "employeeName": "Ram",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 3,
+        "shiftAvailability": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 9,
+        "employeeName": "Gopal",
+        "employeeClass": 1,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 10,
+        "employeeName": "Verma",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 11,
+        "employeeName": "Sachin",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 12,
+        "employeeName": "Tendulkar",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 13,
+        "employeeName": "Sourav",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 14,
+        "employeeName": "Ganguly",
+        "employeeClass": 3,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "employeeId": 15,
+        "employeeName": "Amitabh",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 2,
+        "shiftAvailability": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      {
+        "employeeId": 16,
+        "employeeName": "Bachhan",
+        "employeeClass": 2,
+        "resourceWeeklyAvailability": 5,
+        "shiftAvailability": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true
+        ]
+      }
+    ]
+  ]

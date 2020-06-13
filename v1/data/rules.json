@@ -1,0 +1,12 @@
+{
+    "minNumOfClass1ForS1":1,
+    "minNumOfClass1ForS2":1,
+    "minNumOfClass1ForS3":1,
+    "minNumOfClass2ForS1":1,
+    "minNumOfClass2ForS2":1,
+    "minNumOfClass2ForS3":1,
+    "minNumOfClass3ForS1":1,
+    "minNumOfClass3ForS2":1,
+    "minNumOfClass3ForS3":1,
+    "maxNumForS1andS3":3
+}
